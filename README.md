@@ -29,12 +29,6 @@ I’ve contributed to platforms like **Enyata**, **KreditAfrica**, **Beacon Hill
 
 ---
 
-## 📈 GitHub Stats
-
-![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izzimars&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/israel-macaulay-b8698418a/)  
