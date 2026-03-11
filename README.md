@@ -1,12 +1,46 @@
-- 👋 Hi, I’m Macaulay Israel
-- 👀 I’m interested in backend development, building scalable applications, and exploring new technologies.
-- 🌱 I’m learning full-stack web development through the ALX Software Engineering Program and deepening my skills in Node.js and Django.
-- 💞️ I want to collaborate on open-source projects, fintech applications, and any exciting backend-focused initiatives.
-- 📫 How to reach me: You can reach me via email at macaulay.israel@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/macaulay-israel).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wrote the backend for Diary Dove, a platform that logs diary entries from multiple sources like email and WhatsApp!..
+# 👋 Hi, I'm Israel Macaulay
 
-<!---
-izzimars/izzimars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate backend engineer and AI enthusiast with hands-on experience building scalable, secure, and innovative software solutions. I specialize in **backend development**, **AI/automation**, and **full-stack product engineering**.  
+
+I’ve contributed to platforms like **Enyata**, **KreditAfrica**, **Beacon Hills**, **Hazel AI**, and **Compliance Core Data Service**, with experience spanning **web scraping, microservices, APIs, and data pipelines**.
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:** Django, Flask, Node.js, FastAPI  
+**Frontend:** React, HTML/CSS/JS  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**AI/Automation:** Python, BeautifulSoup, lxml, OpenCV, Tesseract, DeepFace  
+**DevOps & Tools:** Docker, Docker Compose, Kubernetes, Git, CI/CD  
+**Testing:** Jest, Mocha, Pytest  
+**Other:** Bash, Linux, Puppets, Proxy Scrapers, API Keys  
+
+---
+
+## 📂 Projects & Work Highlights
+
+> ⚠️ Some of my best work is in private repositories due to company policies. Detailed access can be provided upon request.
+
+**Private Work (Available on Request):**  
+- **Compliance Core Data Service** – Django REST application for financial regulatory scraping and data aggregation.  
+- **KreditAfrica Backend** – Loan management, document extraction, and AI-based compliance automation.  
+- **Enyata Projects** – Node.js/React platforms, microservices, and internal automation solutions.  
+
+---
+
+## 📈 GitHub Stats
+
+![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izzimars&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/israel-macaulay-b8698418a/)  
+- [Portfolio](https://myportfoliovercel-theta.vercel.app/)  
+- Email: ayomideizzi@gmail.com  
+
+---
+
+> “Building backend systems that power innovation and scale with efficiency.”
